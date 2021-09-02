@@ -4,7 +4,8 @@
 
 ### Software Tally
 
-- p5 : 2
+- p5 : 3
+- three.js : 0
 - Unity : 0
 - Unreal : 0
 - Touch Designer : 0
@@ -19,6 +20,7 @@
     - Physics Libraries
     - Autonomous Agents
         - Flocking
+            - three gltf basics
     - Cellular Automata
         - ~~Social Flowers Game of Life~~ Day 3
             - seed/death/bloom
@@ -37,3 +39,8 @@
     - Shaders
     - Quad Tree vs Normal Comparison
     - Coroutines / Tasks
+- Magic Leap
+    - critters on the meshes
+- Misc
+    - 3D Tree growing fruit that plop down to become crabbys -- crab apples
+    - Something with depth cameras
