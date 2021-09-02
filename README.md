@@ -4,7 +4,10 @@
 
 ### Software Tally
 
-p5
+- p5 : 2
+- Unity : 0
+- Unreal : 0
+- Touch Designer : 0
 
 ### Idea Board
 - [Nature of Code](https://natureofcode.com/book/)
@@ -17,7 +20,10 @@ p5
     - Autonomous Agents
         - Flocking
     - Cellular Automata
-        - Social Flowers Game of Life
+        - ~~Social Flowers Game of Life~~ Day 3
+            - seed/death/bloom
+            - interactive selection
+            - slider vibe
     - Fractals
     - Evolution of Code
         - Interactive Selection
