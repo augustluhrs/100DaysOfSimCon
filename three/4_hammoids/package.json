@@ -1,0 +1,19 @@
+{
+  "name": "4_hammoids",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "parcel build public/index.html",
+    "watch": "parcel public/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "parcel": "^2.0.0-rc.0",
+    "three": "^0.132.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}

@@ -5,7 +5,7 @@
 ### Software Tally
 
 - p5 : 3
-- three.js : 0
+- three.js : 1
 - Unity : 0
 - Unreal : 0
 - Touch Designer : 0
