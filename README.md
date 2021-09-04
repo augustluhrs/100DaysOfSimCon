@@ -4,8 +4,9 @@
 
 ### Software Tally
 
-- p5 : 2
-- Unity : 0
+- p5 : 3
+- three.js : 1
+- Unity : 1
 - Unreal : 0
 - Touch Designer : 0
 
@@ -19,6 +20,7 @@
     - Physics Libraries
     - Autonomous Agents
         - Flocking
+            - ~~three gltf basics~~ Day 4
     - Cellular Automata
         - ~~Social Flowers Game of Life~~ Day 3
             - seed/death/bloom
@@ -37,3 +39,12 @@
     - Shaders
     - Quad Tree vs Normal Comparison
     - Coroutines / Tasks
+- Magic Leap
+    - critters on the meshes
+- Misc
+    - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
+    - Something with depth cameras
+    - hardware spawners
+    - something with the Luster color wheel
+    - unity package for 100 days stuff?
+    - some sort of generative poetry thing
