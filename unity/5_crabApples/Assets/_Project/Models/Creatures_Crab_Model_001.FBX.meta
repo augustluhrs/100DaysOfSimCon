@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a6ceb890020253b4bb51951ed70fdf96
+timeCreated: 1533913966
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone Body
+    100002: Bone COM
+    100004: Bone Eye_L
+    100006: Bone Eye_R
+    100008: Bone L_Finger_Down
+    100010: Bone L_Finger_Up
+    100012: Bone L_ForeArm
+    100014: Bone L_Hand
+    100016: Bone L_UpperArm
+    100018: Bone LB_Leg 001
+    100020: Bone LB_Leg 002
+    100022: Bone LB_Leg 003
+    100024: Bone LF_Leg 001
+    100026: Bone LF_Leg 002
+    100028: Bone LF_Leg 003
+    100030: Bone LM_Leg 001
+    100032: Bone LM_Leg 002
+    100034: Bone LM_Leg 003
+    100036: Bone R_Finger_Down
+    100038: Bone R_Finger_Up
+    100040: Bone R_ForeArm
+    100042: Bone R_Hand
+    100044: Bone R_UpperArm
+    100046: Bone RB_Leg 001
+    100048: Bone RB_Leg 002
+    100050: Bone RB_Leg 003
+    100052: Bone RF_Leg 001
+    100054: Bone RF_Leg 002
+    100056: Bone RF_Leg 003
+    100058: Bone RM_Leg 001
+    100060: Bone RM_Leg 002
+    100062: Bone RM_Leg 003
+    100064: connectBone001
+    100066: connectBone001(mirrored)
+    100068: connectBone002
+    100070: connectBone003
+    100072: connectBone004
+    100074: connectBone005
+    100076: connectBone006
+    100078: connectBone007
+    100080: connectBone008
+    100082: connectBone009
+    100084: connectBone010
+    100086: connectBone011
+    100088: //RootNode
+    100090: Enemy_Fish_Crap_Normal_001
+    400000: Bone Body
+    400002: Bone COM
+    400004: Bone Eye_L
+    400006: Bone Eye_R
+    400008: Bone L_Finger_Down
+    400010: Bone L_Finger_Up
+    400012: Bone L_ForeArm
+    400014: Bone L_Hand
+    400016: Bone L_UpperArm
+    400018: Bone LB_Leg 001
+    400020: Bone LB_Leg 002
+    400022: Bone LB_Leg 003
+    400024: Bone LF_Leg 001
+    400026: Bone LF_Leg 002
+    400028: Bone LF_Leg 003
+    400030: Bone LM_Leg 001
+    400032: Bone LM_Leg 002
+    400034: Bone LM_Leg 003
+    400036: Bone R_Finger_Down
+    400038: Bone R_Finger_Up
+    400040: Bone R_ForeArm
+    400042: Bone R_Hand
+    400044: Bone R_UpperArm
+    400046: Bone RB_Leg 001
+    400048: Bone RB_Leg 002
+    400050: Bone RB_Leg 003
+    400052: Bone RF_Leg 001
+    400054: Bone RF_Leg 002
+    400056: Bone RF_Leg 003
+    400058: Bone RM_Leg 001
+    400060: Bone RM_Leg 002
+    400062: Bone RM_Leg 003
+    400064: connectBone001
+    400066: connectBone001(mirrored)
+    400068: connectBone002
+    400070: connectBone003
+    400072: connectBone004
+    400074: connectBone005
+    400076: connectBone006
+    400078: connectBone007
+    400080: connectBone008
+    400082: connectBone009
+    400084: connectBone010
+    400086: connectBone011
+    400088: //RootNode
+    400090: Enemy_Fish_Crap_Normal_001
+    4300000: Enemy_Fish_Crap_Normal_001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Enemy_Fish_Crap_Normal_001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
