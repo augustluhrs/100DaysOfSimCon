@@ -5,8 +5,8 @@
 ### Software Tally
 
 - p5 : 3
+- Unity : 2
 - three.js : 1
-- Unity : 1
 - Unreal : 0
 - Touch Designer : 0
 
@@ -15,6 +15,7 @@
     - ~~Random Walk~~ Day 1
     - Vectors
     - Forces
+        - ~~Skull Attraction~~ Day 6
     - Oscillation
     - Particle Systems
     - Physics Libraries
@@ -43,7 +44,7 @@
     - critters on the meshes
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
-    - Something with depth cameras
+    - Something with depth cameras / LiDAR
     - hardware spawners
     - something with the Luster color wheel
     - unity package for 100 days stuff?
