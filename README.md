@@ -1,11 +1,12 @@
 # 100 Days of Simulated Consciousness
 ### Daily Experiments in Emergent Behavior, Collective Ecosystems, Virtual Life, Digital Agency, and Distributed Cognition
 
+![100 Days of Virtual Life Logo](100Days_Logo.png)
 
 ### Software Tally
 
 - p5 : 5
-- Unity : 3
+- Unity : 4
 - three.js : 1
 - Unreal : 0
 - Touch Designer : 0
@@ -77,7 +78,7 @@
     - fish tank with hardware feeder
     - virtual rat rings physical bell for treatsGenGen 
 - Unity Specifics
-    - .AddForce???
+    - ~~.AddForce???~~ Day 10
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
