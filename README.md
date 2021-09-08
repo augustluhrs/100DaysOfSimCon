@@ -70,3 +70,6 @@
     - a modular ecosystym of transport agents on a grid
     - something with webcam
     - something that can trigger a shock device
+    - odes to friends
+    - Enoch giving birth to sun baby
+
