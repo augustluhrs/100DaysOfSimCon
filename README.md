@@ -5,7 +5,7 @@
 ### Software Tally
 
 - p5 : 5
-- Unity : 2
+- Unity : 3
 - three.js : 1
 - Unreal : 0
 - Touch Designer : 0
@@ -16,6 +16,7 @@
     - Vectors
     - Forces
         - ~~Skull Attraction~~ Day 6
+        - Testing the Different Forces in Unity
     - Oscillation
     - Particle Systems
     - Physics Libraries
@@ -31,12 +32,20 @@
     - Fractals
     - Evolution of Code
         - ~~Smart Rockets~~ Day 8
+        - ~~Smart Rockets in Unity~~
         - Interactive Selection
     - Neural Networks
         - DIY NN
 - [Twitch Plays God](https://github.com/augustluhrs/Twitch_Plays_God)
     - ~~Cyclical Closed Loop Rock Paper Scissors type thing~~ Day 2
 - [ML-Agents](https://github.com/Unity-Technologies/ml-agents)
+- [Sebastian Lague](https://www.youtube.com/c/SebastianLague)
+    - [Boids Sphere Rays and Compute Shader](https://www.youtube.com/watch?v=bqtqltqcQhw&list=PLQgC61XzV8DOdEDEXVn6CL11tx3trnyCl&index=3)
+    - [Simulated Ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&list=PLQgC61XzV8DOdEDEXVn6CL11tx3trnyCl)
+    - [Compute Shaders](https://www.youtube.com/watch?v=9RHGLZLUuwc&list=WL&index=41)
+    - [Marching Cubes](https://www.youtube.com/watch?v=M3iI2l0ltbE&list=WL&index=40)
+    - [Slime Simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A&list=WL&index=37)
+    - [Elegant Emergence](https://www.youtube.com/watch?v=kzwT3wQWAHE&list=WL&index=38)
 - Bodies
     - a sound machine like a throat
     - car battery suspended in a jellied cantaloupe
@@ -60,16 +69,22 @@
     - trauma markers
     - "nature is effiecient
     - sexual selection
-- Misc
-    - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
+- Hardware / Physical
     - Something with depth cameras / LiDAR
     - hardware spawners
+    - something with webcam
+    - something that can trigger a shock device
+    - fish tank with hardware feeder
+    - virtual rat rings physical bell for treatsGenGen 
+- Unity Specifics
+    - .AddForce???
+- Misc
+    - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
     - unity package for 100 days stuff?
     - some sort of generative poetry thing
     - a modular ecosystym of transport agents on a grid
-    - something with webcam
-    - something that can trigger a shock device
     - odes to friends
     - Enoch giving birth to sun baby
+    - habit identity casting votes atomic growth
 
