@@ -3,10 +3,11 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
+## Day: 11
 ### Software Tally
 
 - p5 : 5
-- Unity : 4
+- Unity : 5
 - three.js : 1
 - Unreal : 0
 - Touch Designer : 0
@@ -66,6 +67,9 @@
     - absurdity
     - climate change (hmm)
     - intergenerational trauma
+    - social media
+        - attention as commodity
+        - vulnerability addiction / trauma porn
 - Evolution
     - trauma markers
     - "nature is effiecient
@@ -84,7 +88,7 @@
     - something with the Luster color wheel
     - unity package for 100 days stuff?
     - some sort of generative poetry thing
-    - a modular ecosystym of transport agents on a grid
+    - a modular ecosystem of transport agents on a grid
     - odes to friends
     - Enoch giving birth to sun baby
     - habit identity casting votes atomic growth
