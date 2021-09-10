@@ -3,11 +3,11 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 11
+## Day: 12
 ### Software Tally
 
+- Unity : 6
 - p5 : 5
-- Unity : 5
 - three.js : 1
 - Unreal : 0
 - Touch Designer : 0
@@ -47,11 +47,15 @@
     - [Compute Shaders](https://www.youtube.com/watch?v=9RHGLZLUuwc&list=WL&index=41)
     - [Marching Cubes](https://www.youtube.com/watch?v=M3iI2l0ltbE&list=WL&index=40)
     - [Slime Simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A&list=WL&index=37)
+        - ~~Slime Mold~~ Day 11
     - [Elegant Emergence](https://www.youtube.com/watch?v=kzwT3wQWAHE&list=WL&index=38)
 - Bodies
     - a sound machine like a throat
     - car battery suspended in a jellied cantaloupe
     - procedurally generated critters
+    - ~~electrical signals powering muscles~~ Day 12
+    - IK animations
+    - growing muscle tissue / protein cell network contraction
 - Multiplayer
     - Mass Interactive Selection
 - Optimization / Algorithms
@@ -74,6 +78,20 @@
     - trauma markers
     - "nature is effiecient
     - sexual selection
+- Social Theories
+    - community knowledge (gossip)
+    - community knowledge (distributed cognition -- sharing info in real time)
+        - restraint / selflessness
+    - universal healthcare
+    - UBI
+        - work urge / societal pressure / safety-food urge
+    - Primer videos
+    - Nicky Case games
+- Animal Abilities
+    - echolocation
+    - camouflage
+    - bioluminescence 
+    - 3D ant pheromones
 - Hardware / Physical
     - Something with depth cameras / LiDAR
     - hardware spawners
@@ -83,6 +101,8 @@
     - virtual rat rings physical bell for treatsGenGen 
 - Unity Specifics
     - ~~.AddForce???~~ Day 10
+    - WASD cam control
+    - Learn how to rig / animate
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
