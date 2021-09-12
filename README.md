@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 12
+## Day: 13
 ### Software Tally
 
-- Unity : 6
+- Unity : 7
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -18,7 +18,6 @@
     - Vectors
     - Forces
         - ~~Skull Attraction~~ Day 6
-        - Testing the Different Forces in Unity
     - Oscillation
     - Particle Systems
     - Physics Libraries
@@ -34,7 +33,7 @@
     - Fractals
     - Evolution of Code
         - ~~Smart Rockets~~ Day 8
-        - ~~Smart Rockets in Unity~~
+        - ~~Smart Rockets in Unity~~ Day 9
         - Interactive Selection
     - Neural Networks
         - DIY NN
@@ -92,6 +91,7 @@
     - camouflage
     - bioluminescence 
     - 3D ant pheromones
+    - venus fly traps
 - Hardware / Physical
     - Something with depth cameras / LiDAR
     - hardware spawners
@@ -103,6 +103,8 @@
     - ~~.AddForce???~~ Day 10
     - WASD cam control
     - Learn how to rig / animate
+    - Rigidbodys
+    - Shadergraph
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
@@ -112,4 +114,5 @@
     - odes to friends
     - Enoch giving birth to sun baby
     - habit identity casting votes atomic growth
+    - ~~interesting instantiation / mesh stuff~~ Day 13
 
