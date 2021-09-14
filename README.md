@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 13
+## Day: 14
 ### Software Tally
 
-- Unity : 7
+- Unity : 8
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -115,4 +115,6 @@
     - Enoch giving birth to sun baby
     - habit identity casting votes atomic growth
     - ~~interesting instantiation / mesh stuff~~ Day 13
+    - terrarium with my house plants on long running server
+    - flocking flumphs
 
