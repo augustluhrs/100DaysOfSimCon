@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 14
+## Day: 16
 ### Software Tally
 
-- Unity : 8
+- Unity : 10
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -102,9 +102,12 @@
 - Unity Specifics
     - ~~.AddForce???~~ Day 10
     - WASD cam control
-    - Learn how to rig / animate
+    - ~~Learn how to rig~~ Day 15
+    - Learn how to animate a rig from script
     - Rigidbodys
+    - ~~Character Joints~~ Day 16
     - Shadergraph
+        - ~~basics~~ Day 17
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
@@ -117,4 +120,5 @@
     - ~~interesting instantiation / mesh stuff~~ Day 13
     - terrarium with my house plants on long running server
     - flocking flumphs
+    - plants that grow towards the sun or recieve nutrients through raycasting
 
