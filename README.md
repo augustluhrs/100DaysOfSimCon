@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 18
+## Day: 20
 ### Software Tally
 
-- Unity : 12
+- Unity : 14
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -102,13 +102,16 @@
     - virtual rat rings physical bell for treatsGenGen 
 - Unity Specifics
     - ~~.AddForce???~~ Day 10
-    - WASD cam control
+    - ~~WASD cam control~~ Day 19
     - ~~Learn how to rig~~ Day 15
+    - ~~Animation Basics~~ Day 20
     - Learn how to animate a rig from script
     - Rigidbodys
     - ~~Character Joints~~ Day 16
     - Shadergraph
         - ~~basics~~ Day 17
+    - bolt
+    - NavMesh
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
@@ -122,4 +125,6 @@
     - terrarium with my house plants on long running server
     - flocking flumphs
     - plants that grow towards the sun or recieve nutrients through raycasting
+    - procedural environment generation
+    - hop animations that i can use on any mesh
 
