@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 20
+## Day: 21
 ### Software Tally
 
-- Unity : 14
+- Unity : 15
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -103,11 +103,14 @@
 - Unity Specifics
     - ~~.AddForce???~~ Day 10
     - ~~WASD cam control~~ Day 19
-    - ~~Learn how to rig~~ Day 15
-    - ~~Animation Basics~~ Day 20
-    - Learn how to animate a rig from script
+    - Animation
+        - ~~Learn how to rig~~ Day 15
+        - ~~Character Joints~~ Day 16
+        - ~~Animation Basics~~ Day 20
+        - ~~animation state switching~~ Day 21
+        - movement along ground mesh
+        - Learn how to animate a rig from script
     - Rigidbodys
-    - ~~Character Joints~~ Day 16
     - Shadergraph
         - ~~basics~~ Day 17
     - bolt
