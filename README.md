@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 21
+## Day: 24
 ### Software Tally
 
-- Unity : 15
+- Unity : 18
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -115,6 +115,9 @@
         - ~~basics~~ Day 17
     - bolt
     - NavMesh
+        - ~~basics~~ Day 22
+        - ~~matching animation to motion~~ Day 23
+        - ~~scaling model and animations and navmesh~~ Day 24
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
