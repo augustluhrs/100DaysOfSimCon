@@ -3,10 +3,10 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 24
+## Day: 27
 ### Software Tally
 
-- Unity : 18
+- Unity : 21
 - p5 : 5
 - three.js : 1
 - Unreal : 0
@@ -36,7 +36,8 @@
         - ~~Smart Rockets in Unity~~ Day 9
         - Interactive Selection
     - Neural Networks
-        - DIY NN
+        - ~~old DIY NN~~ Day 27
+        - new DIY NN
 - [Twitch Plays God](https://github.com/augustluhrs/Twitch_Plays_God)
     - ~~Cyclical Closed Loop Rock Paper Scissors type thing~~ Day 2
 - [ML-Agents](https://github.com/Unity-Technologies/ml-agents)
@@ -118,6 +119,8 @@
         - ~~basics~~ Day 22
         - ~~matching animation to motion~~ Day 23
         - ~~scaling model and animations and navmesh~~ Day 24
+        - ~~following each other~~ Day 25
+        - ~~rigidbodies and collisions~~ Day 26
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
