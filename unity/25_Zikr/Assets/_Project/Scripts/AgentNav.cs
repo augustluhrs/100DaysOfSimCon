@@ -7,7 +7,7 @@ using UnityEngine.AI;
 [RequireComponent (typeof (Animator))]
 public class AgentNav : MonoBehaviour
 {
-    public GameObject target;
+    public GameObject target = null;
     Animator anim;
     public NavMeshAgent agent;
     Vector2 smoothDeltaPosition = Vector2.zero;
@@ -17,11 +17,16 @@ public class AgentNav : MonoBehaviour
         anim = GetComponent<Animator>();
         //agent = GetComponent<NavMeshAgent>();
         agent.updatePosition = false;
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (target == null)
+        {
+            return;
+        }
         agent.destination = target.transform.position;
 
         Vector3 worldDeltaPosition = agent.nextPosition - transform.position;
