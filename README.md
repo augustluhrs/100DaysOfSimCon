@@ -3,12 +3,13 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 27
+## Day: 29
 ### Software Tally
 
 - Unity : 21
 - p5 : 5
 - three.js : 1
+- MS paint: 1
 - Unreal : 0
 - Touch Designer : 0
 
@@ -75,6 +76,7 @@
     - social media
         - attention as commodity
         - vulnerability addiction / trauma porn
+    - ~~feeling alone~~ Day 28
 - Evolution
     - trauma markers
     - "nature is effiecient
@@ -119,7 +121,7 @@
         - ~~basics~~ Day 22
         - ~~matching animation to motion~~ Day 23
         - ~~scaling model and animations and navmesh~~ Day 24
-        - ~~following each other~~ Day 25
+        - ~~following other agents~~ Day 25
         - ~~rigidbodies and collisions~~ Day 26
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
@@ -136,4 +138,5 @@
     - plants that grow towards the sun or recieve nutrients through raycasting
     - procedural environment generation
     - hop animations that i can use on any mesh
+    - ~~Calder's saving cow idea in MS Paint~~ Day 29
 
