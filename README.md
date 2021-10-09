@@ -3,15 +3,19 @@
 
 ![100 Days of Virtual Life Logo](100Days_Logo.png)
 
-## Day: 30
+## Day: 40
 ### Software Tally
 
-- Unity : 22
+- Unity : 31.5
 - p5 : 5
+- Blender: 1.5
 - three.js : 1
 - MS paint: 1
 - Unreal : 0
 - Touch Designer : 0
+
+A huge chunk of days exist on my [ML-Agents Repo](https://github.com/augustluhrs/ml-agents)
+<br/>
 
 ### Idea Board
 - [Nature of Code](https://natureofcode.com/book/)
@@ -43,6 +47,17 @@
     - ~~Cyclical Closed Loop Rock Paper Scissors type thing~~ Day 2
 - [ML-Agents](https://github.com/Unity-Technologies/ml-agents)
     - ~~Hello World Soccer with Animals~~ Day 18
+    - ~~Learn to Walk~~ Day 33
+    - ~~Bunch of stuff~~ Day 34-39
+        - Single-Agent Training
+        - Simultaneous Single-Agent Training
+        - Adversarial Self-Play
+        - Cooperative Multi-Agent
+        - Competitive Multi-Agent
+        - Ecosystem
+    - bridge builders
+    - art builders
+    - keep away
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague)
     - [Boids Sphere Rays and Compute Shader](https://www.youtube.com/watch?v=bqtqltqcQhw&list=PLQgC61XzV8DOdEDEXVn6CL11tx3trnyCl&index=3)
     - [Simulated Ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&list=PLQgC61XzV8DOdEDEXVn6CL11tx3trnyCl)
@@ -123,6 +138,11 @@
         - ~~scaling model and animations and navmesh~~ Day 24
         - ~~following other agents~~ Day 25
         - ~~rigidbodies and collisions~~ Day 26
+- Blender
+    - painting model texture
+    - animating in blender
+- Machine Learning
+    - Meta-Learning (Jane Wang podcast)
 - Misc
     - ~~3D Tree growing fruit that plop down to become crabbys -- crab apples~~ Day 5
     - something with the Luster color wheel
