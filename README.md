@@ -108,7 +108,7 @@ A huge chunk of days exist on my [ML-Agents Repo](https://github.com/augustluhrs
 - Animal Abilities
     - echolocation
     - camouflage
-    - bioluminescence 
+    - bioluminescence git st
     - 3D ant pheromones
     - venus fly traps
 - Hardware / Physical
@@ -118,6 +118,8 @@ A huge chunk of days exist on my [ML-Agents Repo](https://github.com/augustluhrs
     - something that can trigger a shock device
     - fish tank with hardware feeder
     - virtual rat rings physical bell for treatsGenGen 
+    - plant cam streaming into VR
+    - led mapped to XR input
 - Unity Specifics
     - ~~.AddForce???~~ Day 10
     - ~~WASD cam control~~ Day 19
